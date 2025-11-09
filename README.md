@@ -51,7 +51,7 @@ Follow these instructions to compile and run the game on your local machine.
 
 ---
 
-## 🎮 How to Play
+## How to Play
 
 ### 1. Start the Game
 
