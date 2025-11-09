@@ -90,9 +90,3 @@ The game uses a specific `(row,column)=value` format for all inputs. **Rows and 
 
 * **To Quit the Game:**
     `(-1,-1)=-1`
-
----
-
-## License
-
-This project is licensed under the MIT License - see the `LICENSE` file for details.
