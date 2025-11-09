@@ -2,15 +2,6 @@
 
 A classic 9x9 Sudoku game that runs directly in your terminal. This project is written in pure C and uses a simple command-line interface for input.
 
-## Authors
-
-This project was created by:
-
-* **Orestis Zappas** - @OrestizZ (https://github.com/OrestizZ)
-* **Periklis Vovos** - @PerimanV (https://github.com/PerimanV)
-
-as a university assignment for the **Department of Informatics and Telecommunications (University of Peloponnese)**.
-
 ---
 
 ## Features
@@ -90,3 +81,14 @@ The game uses a specific `(row,column)=value` format for all inputs. **Rows and 
 
 * **To Quit the Game:**
     `(-1,-1)=-1`
+
+---
+
+## Authors
+
+This project was created by:
+
+* **Orestis Zappas** - @OrestizZ (https://github.com/OrestizZ)
+* **Periklis Vovos** - @PerimanV (https://github.com/PerimanV)
+
+as a university assignment for the **Department of Informatics and Telecommunications (University of Peloponnese)**.
