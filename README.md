@@ -86,6 +86,6 @@ The game uses a specific `(row,column)=value` format for all inputs. **Rows and 
 
 ---
 
-## 📄 License
+## License
 
-This project is open-source. You can add a [MIT License](https://opensource.org/licenses/MIT) if you wish.
+This project is licensed under the MIT License - see the `LICENSE` file for details.
